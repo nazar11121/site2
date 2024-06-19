@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+.t{
+   width: 70px;
+}
+a{
+    margin: 70px;
+    text-decoration: none;
+    background-color: #4F3556;
+    color: white;
+    padding: 5px;
+}
+.r{
+    width: 110px;
+    margin-top: 50px;
+}
+.y{
+    text-align: center;
+}
+.u{
+    text-align: center;
+}
+.i{
+    text-align: center;
+    font-size: 20px;
+}
+.g{
+    margin-top: 20px;
+}
+footer{
+    background-color:#4F3556 ;
+    color: white;
+    padding: 10px;
+}
